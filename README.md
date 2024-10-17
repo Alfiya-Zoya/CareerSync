@@ -32,9 +32,7 @@ By bridging the gap between job seekers and employers, the platform fosters a mo
 ![image](https://github.com/user-attachments/assets/371de4be-c750-4711-8fac-dc3a1de641bf)
 
 ## Results
-<div style="display: flex; justify-content: space-around;">
-<img src="![image](https://github.com/user-attachments/assets/bd6482a5-1cd3-4c92-839d-7519c6e63c3a)" width=300/>
-</div>
+![image](https://github.com/user-attachments/assets/bd6482a5-1cd3-4c92-839d-7519c6e63c3a)
 ![image](https://github.com/user-attachments/assets/d23fb247-485f-4d09-89fe-836318054c69)
 ![image](https://github.com/user-attachments/assets/86ad56ca-af38-4796-9cb6-a77d8023b46b)
 ![image](https://github.com/user-attachments/assets/8591de9a-e0e5-42c0-92a2-cd7c9fa1334a)
@@ -43,6 +41,22 @@ By bridging the gap between job seekers and employers, the platform fosters a mo
 ![image](https://github.com/user-attachments/assets/3657c7a8-fb0f-45fb-98e9-81f1fb2bcb9d)
 ![image](https://github.com/user-attachments/assets/b605be9e-930a-48d9-a909-09bd03214961)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd6482a5-1cd3-4c92-839d-7519c6e63c3a" alt="Image 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d23fb247-485f-4d09-89fe-836318054c69" alt="Image 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/86ad56ca-af38-4796-9cb6-a77d8023b46b" alt="Image 3" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8591de9a-e0e5-42c0-92a2-cd7c9fa1334a" alt="Image 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4b2c05ef-6468-4b59-99c4-f8af8ebb9f7b" alt="Image 5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ec230af8-1fb0-49ae-98f9-82cdc5e4fd35" alt="Image 6" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3657c7a8-fb0f-45fb-98e9-81f1fb2bcb9d" alt="Image 7" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b605be9e-930a-48d9-a909-09bd03214961" alt="Image 8" width="200"/>
+</p>
 
 
 
