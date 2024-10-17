@@ -1,7 +1,7 @@
 # CareerSync 
 
 ## Description
-<p align="justify">In today's competitive job market, "Our Platform" addresses the challenges fresh graduates face with securing employment, particularly when navigating Applicant Tracking Systems (ATS). The platform offers a comprehensive solution for both job seekers and employers, enhancing resume visibility and optimizing the recruitment process. For job seekers, it provides tools to evaluate ATS scores, improve resumes based on actionable suggestions, and identify roles that match their skills. For employers, the platform streamlines hiring by assessing ATS scores to quickly identify top candidates, reducing the time spent on initial screenings and ensuring the most qualified individuals are considered.
+<p align="justify">In today's competitive job market, "CareerSync" addresses the challenges fresh graduates face with securing employment, particularly when navigating Applicant Tracking Systems (ATS). The platform offers a comprehensive solution for both job seekers and employers, enhancing resume visibility and optimizing the recruitment process. For job seekers, it provides tools to evaluate ATS scores, improve resumes based on actionable suggestions, and identify roles that match their skills. For employers, the platform streamlines hiring by assessing ATS scores to quickly identify top candidates, reducing the time spent on initial screenings and ensuring the most qualified individuals are considered.
 
 By bridging the gap between job seekers and employers, the platform fosters a more transparent, merit-based hiring environment. It not only boosts job seeker visibility but also simplifies recruitment, enabling companies to connect with top talent and fill positions more efficiently.</p>
 
@@ -30,3 +30,22 @@ By bridging the gap between job seekers and employers, the platform fosters a mo
 <p align="justify">Applicant Scanner - It involves selecting a job role, fetching resumes, extracting skills and experience from resumes, calculating an ATS score, and displaying the results. This process aims to identify suitable candidates for a given job role based on their skills and experience.</p>
 
 ![image](https://github.com/user-attachments/assets/371de4be-c750-4711-8fac-dc3a1de641bf)
+
+## Results
+![image](https://github.com/user-attachments/assets/bd6482a5-1cd3-4c92-839d-7519c6e63c3a)
+![image](https://github.com/user-attachments/assets/d23fb247-485f-4d09-89fe-836318054c69)
+![image](https://github.com/user-attachments/assets/86ad56ca-af38-4796-9cb6-a77d8023b46b)
+![image](https://github.com/user-attachments/assets/8591de9a-e0e5-42c0-92a2-cd7c9fa1334a)
+![image](https://github.com/user-attachments/assets/4b2c05ef-6468-4b59-99c4-f8af8ebb9f7b)
+![image](https://github.com/user-attachments/assets/ec230af8-1fb0-49ae-98f9-82cdc5e4fd35)
+![image](https://github.com/user-attachments/assets/3657c7a8-fb0f-45fb-98e9-81f1fb2bcb9d)
+![image](https://github.com/user-attachments/assets/b605be9e-930a-48d9-a909-09bd03214961)
+
+
+
+
+
+
+
+
+
