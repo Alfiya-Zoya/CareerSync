@@ -24,7 +24,7 @@ By bridging the gap between job seekers and employers, the platform fosters a mo
 
 <p align="justify">Job Matcher - It involves extracting text from uploaded resumes, identifying skills using an ML model, and matching those skills to suitable job roles. Users can then choose to apply for displayed roles based on the matching results.</p>
 
-<img src="https://github.com/user-attachments/assets/0af313aa-e7c9-4840-b430-afc735ea9055" alt="Image 9" width="200"/>
+![image](https://github.com/user-attachments/assets/0af313aa-e7c9-4840-b430-afc735ea9055)
 
 
 <p align="justify">Applicant Scanner - It involves selecting a job role, fetching resumes, extracting skills and experience from resumes, calculating an ATS score, and displaying the results. This process aims to identify suitable candidates for a given job role based on their skills and experience.</p>
